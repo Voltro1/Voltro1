@@ -14,12 +14,6 @@
 ### ⚙️ Misc:
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=flat&logo=node.js&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Voltro1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Voltro1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Voltro1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-#
 ## 🤝 Contributed Repositories:
 - https://github.com/ElementaleLord/Chizel [TOP]
 - https://github.com/j12Ch05/I3335_AI_PROJECT
